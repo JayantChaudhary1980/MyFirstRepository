@@ -1,4 +1,4 @@
 # MyFirstRepository
 This is my first git repository.
 <br>
-Author - Jayant Chaudhary
+Author - Jayant Chaudhary (Coder)
